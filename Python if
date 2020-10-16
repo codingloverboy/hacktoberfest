@@ -1,4 +1,6 @@
 If condition:
     Print("")
+elif condition:
+    print("")
 else:
     print("")
